@@ -23,3 +23,26 @@ My goal is to become a good front-end programmer and work in EPAM. I really enjo
 
 All my practice on my Github Page! You can see all my activity.\
 **Github Page:** [My Github Page](https://github.com/SystemGhost)
+
+## Experience
+
+I graduated from the university 2011-2016.\
+I worked 2 years in Agat.\
+I finished Cisco course.\
+I finished Streamline Pre-Entermidiate level course.\
+I have expirience in C, C++, C#, JS, HTML, CSS.\
+I have expirience in Database.
+
+## Education
+
+**Educational establishment:** BSUIR, Minsk, Belarus\
+**Faculty:** Computer Systems and Networks\
+**Department:** Electronic Computing Machines\
+**Degree information:** Higher\
+**Streamline:** Pre-Entermidiate course completed\
+**The Rolling Scopes School:** completed 2018q3\
+**Cisco course:** completed.
+
+## English
+
+I have Pre-Entermidiate level. I've finished Streamline's course. I have practice in reading manual. I have been working with English for 5 years.
