@@ -2,9 +2,9 @@
 
 ## Contacts
 
-**Telephone:** + 375 (29) 253-88-67\
-**Me in VK:** [Me in Vk](https://vk.com/thejackie)\
-**Email:** jackie07364538@gmail.com\
+**Telephone:** + 375 (29) 253-88-67<br>
+**Me in VK:** [Me in Vk](https://vk.com/thejackie)<br>
+**Email:** jackie07364538@gmail.com<br>
 
 ## Summary
 
@@ -21,26 +21,26 @@ My goal is to become a good front-end programmer and work in EPAM. I really enjo
 
 ## Code Examples
 
-All my practice on my Github Page! You can see all my activity.\
+All my practice on my Github Page! You can see all my activity.<br>
 **Github Page:** [My Github Page](https://github.com/SystemGhost)
 
 ## Experience
 
-I graduated from the university 2011-2016.\
-I worked 2 years in Agat.\
-I finished Cisco course.\
-I finished Streamline Pre-Entermidiate level course.\
-I have expirience in C, C++, C#, JS, HTML, CSS.\
+I graduated from the university 2011-2016.<br>
+I worked 2 years in Agat.<br>
+I finished Cisco course.<br>
+I finished Streamline Pre-Entermidiate level course.<br>
+I have expirience in C, C++, C#, JS, HTML, CSS.<br>
 I have expirience in Database.
 
 ## Education
 
-**Educational establishment:** BSUIR, Minsk, Belarus\
-**Faculty:** Computer Systems and Networks\
-**Department:** Electronic Computing Machines\
-**Degree information:** Higher\
-**Streamline:** Pre-Entermidiate course completed\
-**The Rolling Scopes School:** completed 2018q3\
+**Educational establishment:** BSUIR, Minsk, Belarus<br>
+**Faculty:** Computer Systems and Networks<br>
+**Department:** Electronic Computing Machines<br>
+**Degree information:** Higher<br>
+**Streamline:** Pre-Entermidiate course completed<br>
+**The Rolling Scopes School:** completed 2018q3<br>
 **Cisco course:** completed.
 
 ## English
