@@ -6,7 +6,8 @@ body {
 /* navigation */
 
 nav {
-  width: 1024px;
+  max-width: 1024px;
+  width: 100%;
   margin: 0 auto;
 }
 
@@ -36,7 +37,8 @@ nav li a:hover {
 
 /* main */
 main {
-  width: 1024px;
+  max-width: 1024px;
+  width: 100%;
   margin: 0 auto;
   text-align: left;
 }
